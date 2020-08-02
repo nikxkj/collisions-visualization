@@ -1,0 +1,2 @@
+# fatal-collisions-visualization
+This visualization represents the condition of fatal collisions in Toronto.  The colour shifts from blue to red to indicate the years changing from 2007 - 2017.  The more transparent the colour indicates the increase of weather-related vissual compromisation.  The size indicates the number of offences the driver committed that contributed to the collision.  (aggressive driving, running redlight, speeding and driving while intoxicated)
